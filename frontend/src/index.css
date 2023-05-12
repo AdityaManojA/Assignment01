@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: poppins,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ background-color: #AFD3E2;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.text{
+  font-variant: small-caps;
+}
+.bi.bi-plus-circle-dotted {
+  color: blue;
+}
+.bi.bi-plus-circle-dotted:hover{
+  color: black;
+}
+.employee-form {
+  background-color: #F6F1F1;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.employee-form label {
+  font-weight: bold;
+}
+
+.employee-form input {
+  margin-bottom: 10px;
+}
+
+.employee-form button[type="submit"] {
+  margin-top: 10px;
+  background-color: #146C94;
+}
+
+.new{
+  font-family:  poppins;
+  background-color: #146C94;
+}
+
+.custom-link {
+  color: #F6F1F1;
+}
+
+.table-bordered {
+  border-width: 4px;
+}
+
+
+.tablenew{
+  background-color: #F6F1F1;
+}
+
+
+
+
+
